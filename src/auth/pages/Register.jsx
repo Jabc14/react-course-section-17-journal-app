@@ -16,9 +16,9 @@ import { startEmailSignIn } from "../../store/auth/thunks";
 import { useMemo } from "react";
 
 const data = {
-  displayName: "jabc",
-  email: "jabc@gmail.com",
-  password: "123456",
+  displayName: "",
+  email: "",
+  password: "",
 };
 
 const validations = {
